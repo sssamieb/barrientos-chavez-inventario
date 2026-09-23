@@ -43,7 +43,7 @@ Abre tu terminal y ejecuta el siguiente comando:
 
 **2. Ingresa a la carpeta del proyecto**
 Utiliza el comando cd para ubicar tu terminal exactamente dentro de la carpeta que acabas de descargar:
-> cd barrientos-chavez-inventario
+> cd barrientos-chavez
 
 **3. Instala las dependencias necesarias**
 Este proyecto utiliza librerías externas como React, Vite y Bootstrap. Para descargarlas, ejecuta:
